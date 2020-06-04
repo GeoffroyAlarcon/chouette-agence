@@ -442,7 +442,7 @@ nav .caret {
   font-size: 22px;
   line-height: 1.4em;
   text-align: center;
-  color: #f3976c;
+  color: #fff;
 }
 
 .mg-lg {
@@ -592,7 +592,10 @@ a[data-lightbox]:hover img {
   right: 15px;
   bottom: 5px;
 }
-
+.lightbox-caption p {
+  margin: auto;
+  text-align: center;
+}
 .close-lightbox {
   color: #fff;
   font-size: 30px;
@@ -692,7 +695,7 @@ a {
 }
 .text-contact h2 {
   font-size: 24px;
-  color: #175940;
+  color: #7b4a36;
 }
 
 .text-center p {
@@ -793,20 +796,20 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #7B4A36;
+  background-color: #7b4a36;
 }
 
 .tc-white {
-  color: #7B4A36 !important;
+  color: #7b4a36 !important;
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #7b4a36;
   color: #ffffff !important;
 }
 
 .btn-atomic-tangerine:hover {
-  background: #c27956 !important;
+  background: #7b4a36 !important;
   color: #ffffff !important;
 }
 
